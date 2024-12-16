@@ -6,7 +6,7 @@ import { HashRouter } from 'react-router-dom';
 import { store } from './app/store';
 import { App } from './App';
 
-createRoot(document.getElementById('root')!).render(
+createRoot(document.getElementById('root') as HTMLElement).render(
   <StrictMode>
     <Provider store={store}>
       <HashRouter>
