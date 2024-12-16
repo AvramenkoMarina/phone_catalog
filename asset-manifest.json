@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7e373bfc.css",
+    "main.js": "./static/js/main.348a7c48.js",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "index.html": "./index.html",
+    "main.7e373bfc.css.map": "./static/css/main.7e373bfc.css.map",
+    "main.348a7c48.js.map": "./static/js/main.348a7c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e373bfc.css",
+    "static/js/main.348a7c48.js"
+  ]
+}
