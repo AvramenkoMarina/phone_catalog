@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+# Product catalog
+This project is an online product catalog specializing in mobile devices, tablets, and accessories. It offers users the ability to explore, add to favorites, and purchase a wide range of mobile devices and related accessories conveniently.
 
-To use this template click `Use this template`
+## Demo
+https://avramenkomarina.github.io/phone_catalog/#/
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Technologies
+- JavaScript, TypeScript, React
+- SCSS
